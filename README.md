@@ -1,7 +1,24 @@
 # 📦 Bellande 3D Computer Vision
 
-# Check Out Research Organization for API
+## Benifits of using Bellande 3D Computer Vision
+
+## Check Out Research Organization for API
 - https://artificial-intelligence-computer-vision.github.io
+
+### API Functionality
+
+**User Image classification prediction**
+- **endpoint_path**: /api/Bellande_3D_Computer_Vision/bellande_classification_prediction
+
+**User Image Object Detection**
+- **endpoint_path**: /api/Bellande_3D_Computer_Vision/bellande_object_detection
+
+**User Image Instance Segmentation**
+- **endpoint_path**: /api/Bellande_3D_Computer_Vision/bellande_instance_segmentation
+
+**User Image Sementic Segmentation**
+- **endpoint_path**: /api/Bellande_3D_Computer_Vision/bellande_sementic_segmentation
+
 
 ## Can also checkout portion of the docs at [Portion API DOCS](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_3d_computer_vision/blob/main/api_docs.md)
 
